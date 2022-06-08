@@ -1,0 +1,3 @@
+C:/Users/leonp/CLionProjects/BSP/cmake-build-debug/CMakeFiles/BSP.dir
+C:/Users/leonp/CLionProjects/BSP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leonp/CLionProjects/BSP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
